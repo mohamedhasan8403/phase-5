@@ -2,7 +2,7 @@ Project: AI-EBPL - Autonomous Vehicles and Robotics
 This project delivers a modular and intelligent system for enhancing autonomous vehicle behavior and robotic control mechanisms. Leveraging advanced AI models, sensor fusion techniques, and real-time path planning, the system is designed to simulate, analyze, and optimize autonomous navigation in both structured and unstructured environments. The solution is tailored around smart mobility scenarios such as dynamic traffic, pedestrian detection, obstacle avoidance, and environmental monitoring.
 
 Features - Key Functionalities :
-Autonomous Navigation: AI-based route optimization and decision-making for obstacle avoidance and path planning.
+Autonomous Navigation: AI-based route optimization and decision-making for obstacle avoidance and path plan.
 
 Sensor Fusion: Integrate data from LiDAR, ultrasonic, GPS, and camera sensors for robust environment understanding.
 
