@@ -24,7 +24,7 @@ pandas: Data handling and CSV parsing for input datasets
 
 matplotlib: Data visualization and path/route plotting
 
-scikit-learn: ML model training and evaluation
+scikit-learn: ML model training and evaluation.
 
 opencv-python: Real-time image and video analysis
 
