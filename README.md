@@ -3,7 +3,7 @@ This project delivers a modular and intelligent system for enhancing autonomous 
 
 Features - Key Functionalities :
 Autonomous Navigation: AI-based route optimization and decision-making for obstacle avoidance and path planing.
-..
+
 Sensor Fusion: Integrate data from LiDAR, ultrasonic, GPS, and camera sensors for robust environment understanding.
 
 Dynamic Path Planning: Real-time path recalculations based on sensor inputs and environmental changes.
