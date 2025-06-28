@@ -16,7 +16,7 @@ Technology Used - Languages, Tools, and Libraries
 Programming Language: Python 3.10+
 
 Libraries & Tools:
-Core Libraries
+Core Libraries:
 
 numpy: Numerical computations and matrix operations
 
