@@ -5,7 +5,7 @@
 This project delivers a **modular and intelligent system** to enhance autonomous vehicle behavior and robotic control. It uses **AI models**, **sensor fusion**, and **real-time path planning** to simulate, analyze, and optimize navigation in both **structured** (urban) and **unstructured** (off-road) environments.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Qz1ZC91f3X8sQbpXHZ/giphy.gif" width="500" alt="Autonomous Vehicle Simulation" />
+  <img src="https://media.giphy.com/media/XF5ZLk0nPM5XWp9D47/giphy.gif" width="600" alt="Autonomous Vehicle AI Simulation" />
 </p>
 
 ---
@@ -78,4 +78,5 @@ This project delivers a **modular and intelligent system** to enhance autonomous
 
 📂 [**Project Repository**](https://github.com/mohamedhasan8403/AI-EBPL)  
 ✍️ *Maintained by [Mohamed Hasan M](https://github.com/mohamedhasan8403)*  
+
 
