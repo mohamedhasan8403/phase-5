@@ -1,4 +1,4 @@
-## 🤖 Project: AI-EBPL – Autonomous Vehicles & Robotics
+## 🤖 Project: AI-EBPL – Autonomous Vehicles & Robotic
 
 > 🚗 **AI-Enhanced Behavioral Planning & Localization System for Smart Mobility**
 
