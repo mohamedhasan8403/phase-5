@@ -1,30 +1,25 @@
-# 🤖 Project: AI-EBPL – Autonomous Vehicles & Robotics 🚀
+# 🤖 Project: AI-EBPL – Autonomous Vehicles & Robotics
 
-> 🚗 **AI-Enhanced Behavioral Planning & Localization System for Smart Mobility** 🚦
+> 🚗 **AI-Enhanced Behavioral Planning & Localization System for Smart Mobility**
 
 This project delivers a **modular and intelligent system** to enhance autonomous vehicle behavior and robotic control. It uses **AI models**, **sensor fusion**, and **real-time path planning** to simulate, analyze, and optimize navigation in both **structured** (bustling urban landscapes like Chennai's streets) and **unstructured** (the varied terrain outside the city) environments.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs7YMwP4wOaF8T4Q/giphy.gif" width="400" alt="Autonomous Vehicle Concept" />
-  <img src="https://media.giphy.com/media/jJxa0tBNKzS0w/giphy.gif" width="200" alt="Sensor Data Visualization" />
-</p>
 
 ---
 
 ### ✨ Key Features
 
-- 🤖 **Autonomous Navigation**: AI-based route optimization and decision-making for obstacle avoidance, adapting to the flow of traffic like navigating a busy T. Nagar intersection. 🚶‍♀️🚧
-- 🧠 **Sensor Fusion**: Combines data from **LiDAR** <img src="https://media.giphy.com/media/l49JQqgM5zv4GZMt2/giphy.gif" width="30" alt="LiDAR Scanning">, **ultrasonic**, **GPS** 🛰️, and **camera** 📸 sensors for a robust environmental understanding, just like a local navigating through Mylapore.
-- 🛣️ **Dynamic Path Planning**: Continuously recalculates navigation paths in real-time based on environment and sensor input, smoothly maneuvering around unexpected roadblocks or processions. 🚧
-- 🚧 **Traffic & Obstacle Detection**: ML models detect and classify objects like traffic signals <img src="https://media.giphy.com/media/VhWCQ91V0KKmU/giphy.gif" width="30" alt="Animated Traffic Light">, pedestrians 🚶‍♂️, and barriers for responsive movement, essential for navigating the crowds near Marina Beach.
-- 🌍 **Simulation Environment**: Simulates both urban (envisioning a digital representation of Anna Salai) and off-road environments for safe and effective algorithm testing. 🏞️
+- 🤖 **Autonomous Navigation**: AI-based route optimization and decision-making for obstacle avoidance, adapting to the flow of traffic like navigating a busy T. Nagar intersection.
+- 🧠 **Sensor Fusion**: Combines data from **LiDAR**, **ultrasonic**, **GPS** 🛰️, and **camera** 📸 sensors for a robust environmental understanding.
+- 🛣️ **Dynamic Path Planning**: Continuously recalculates navigation paths in real-time based on environment and sensor input, smoothly maneuvering around unexpected roadblocks.
+- 🚧 **Traffic & Obstacle Detection**: ML models detect and classify objects like traffic signals, pedestrians 🚶‍♂️, and barriers for responsive movement.
+- 🌍 **Simulation Environment**: Simulates both urban and off-road environments for safe and effective algorithm testing.
 
 ---
 
 ### 🛠️ Technology Stack
 
 **🧑‍💻 Programming Language:**
-- Python 3.10+ <img src="https://media.giphy.com/media/kaM5fIBo5KQAQ/giphy.gif" width="30" alt="Python Animation">
+- Python 3.10+
 
 **🔧 Libraries & Tools:**
 - `numpy` – Matrix operations and numerical computation 🔢
@@ -39,5 +34,25 @@ This project delivers a **modular and intelligent system** to enhance autonomous
 
 ### 🔄 Workflow Overview
 
-1. **📥 Sensor Data Input:** Accepts live or recorded data streams from GPS, LiDAR, and camera systems. <img src="https://media.giphy.com/media/xThuW49rSmx1mStvdm/giphy.gif" width="50" alt="Data Flow">
-2. **🧹 Preprocessing:** Aligns and normalizes data for synchronized AI input. <img src="
+1. **📥 Sensor Data Input:** Accepts live or recorded data streams from GPS, LiDAR, and camera systems.
+2. **🧹 Preprocessing:** Aligns and normalizes data for synchronized AI input.
+3. **🤖 AI Decision System:** Trained models analyze the current state and predict optimal movement or reactions.
+4. **📍 Path Planning & Control:** Generates, optimizes, and updates navigation routes based on new data.
+5. **📊 Visualization:** Real-time plotting of vehicle position, obstacles, and environment.
+
+---
+
+### 🧪 Possible Extensions
+
+- 🛰️ Integration with ROS (Robot Operating System) for real-world testing.
+- 📦 Model deployment via Flask/FastAPI for simulation control with a web interface.
+- 📱 UI dashboard for live monitoring and control (e.g., a Flutter app).
+
+---
+
+> 🧠 _“This project bridges AI, robotics, and real-world mobility challenges with precision and innovation, aiming for a navigation experience as smooth as a drive along the scenic East Coast Road.”_
+
+---
+
+📂 [**Project Repository**](https://github.com/mohamedhasan8403/AI-EBPL)  
+✍️ *Maintained by [Mohamed Hasan M](https://github.com/mohamedhasan8403)*
