@@ -1,5 +1,5 @@
 
-# phsase 3 - Code
+# phsase 3 - Code   
 import numpy as np
 import matplotlib.pyplot as plt
 
