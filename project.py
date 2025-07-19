@@ -1,5 +1,5 @@
 
-# phsase 3 - C
+# phsase 3 - Co
 import numpy as np
 import matplotlib.pyplot as plt
 
