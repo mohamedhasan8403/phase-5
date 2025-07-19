@@ -1,7 +1,7 @@
 
 # phsase 3 - Code
 import numpy as np
-import matplotlib.pyplot as pl
+import matplotlib.pyplot as plt
 
 # Simulated LIDAR data (360-degree scan, 1-degree resolution)
 def simulate_lidar(position, obstacles, max_range=10):
